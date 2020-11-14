@@ -35,8 +35,8 @@ print(account.status)
 #if using limit orders add
 #limit_price=20.50
 
-order = api.submit_order(symbol="SPXL",
-                        qty="2",
+order = api.submit_order(symbol="NIO",
+                        qty="100",
                         side="buy",
                         type="market",
                         time_in_force="day")
