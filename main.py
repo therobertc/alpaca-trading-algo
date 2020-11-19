@@ -5,7 +5,7 @@ import time
 
 #live_trading_key
 #paper trading key
-key = "INSERT API KEY ID"
+key = "PKISDQ3TNH5GKBZLZM56"
 sec = "GENERATE NEW API SECRET KEY"
 
 #API endpoint URL
